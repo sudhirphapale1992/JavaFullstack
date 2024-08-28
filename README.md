@@ -1,1 +1,2 @@
 # JavaFullstack
+Hashing Algorithm
